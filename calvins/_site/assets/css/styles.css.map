@@ -1,0 +1,14 @@
+{
+	"version": 3,
+	"file": "styles.css",
+	"sources": [
+		"styles.scss",
+		"_sass/main.scss"
+	],
+	"sourcesContent": [
+		"@import \"main\";\n",
+		"body {\n  background-image: url(\"paw-bg.svg\");\n  background-repeat: repeat;\n}\n\n.calvins-border {\n  border: 5px solid #da70dc;\n}\n\n.wrapper {\n  background-color: #fab0fa;\n  border: 5px solid #da70dc;\n\n  h1,\n  h2,\n  h3,\n  h4,\n  h5,\n  h6 {\n    color: #74007a;\n  }\n\n  th {\n    color: #74007a;\n    background-color: #fab0fa;\n  }\n\n  tr,\n  td {\n    background-color: #74007a;\n    color: #ffe9ff;\n  }\n}\n\n.bg-darkest {\n  background-color: #74007a;\n}\n\n.bg-dark {\n  background-color: #a53faa;\n}\n\n.bg {\n  background-color: #da70dc;\n}\n\n.bg-light {\n  background-color: #fab0fa;\n}\n\n.bg-lightest {\n  background-color: #ffe9ff;\n}\n\n.btn {\n  background-color: #74007a;\n  color: #ffe9ff;\n}\n\n// #74007a Darkest\n// #a53faa\n// #da70dc\n// #fab0fa\n// #ffe9ff Lightest\n"
+	],
+	"names": [],
+	"mappings": "ACAA,AAAA,IAAI,CAAC,EACH,gBAAgB,EAAE,iBAAiB,EACnC,iBAAiB,EAAE,MAAM,GAC1B;;AAED,AAAA,eAAe,CAAC,EACd,MAAM,EAAE,iBAAiB,GAC1B;;AAED,AAAA,QAAQ,CAAC,EACP,gBAAgB,EAAE,OAAO,EACzB,MAAM,EAAE,iBAAiB,GAqB1B;;AAvBD,AAIE,QAJM,CAIN,EAAE,EAJJ,QAAQ,CAKN,EAAE,EALJ,QAAQ,CAMN,EAAE,EANJ,QAAQ,CAON,EAAE,EAPJ,QAAQ,CAQN,EAAE,EARJ,QAAQ,CASN,EAAE,CAAC,EACD,KAAK,EAAE,OAAO,GACf;;AAXH,AAaE,QAbM,CAaN,EAAE,CAAC,EACD,KAAK,EAAE,OAAO,EACd,gBAAgB,EAAE,OAAO,GAC1B;;AAhBH,AAkBE,QAlBM,CAkBN,EAAE,EAlBJ,QAAQ,CAmBN,EAAE,CAAC,EACD,gBAAgB,EAAE,OAAO,EACzB,KAAK,EAAE,OAAO,GACf;;AAGH,AAAA,WAAW,CAAC,EACV,gBAAgB,EAAE,OAAO,GAC1B;;AAED,AAAA,QAAQ,CAAC,EACP,gBAAgB,EAAE,OAAO,GAC1B;;AAED,AAAA,GAAG,CAAC,EACF,gBAAgB,EAAE,OAAO,GAC1B;;AAED,AAAA,SAAS,CAAC,EACR,gBAAgB,EAAE,OAAO,GAC1B;;AAED,AAAA,YAAY,CAAC,EACX,gBAAgB,EAAE,OAAO,GAC1B;;AAED,AAAA,IAAI,CAAC,EACH,gBAAgB,EAAE,OAAO,EACzB,KAAK,EAAE,OAAO,GACf"
+}

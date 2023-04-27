@@ -1,0 +1,64 @@
+body {
+  background-image: url("paw-bg.svg");
+  background-repeat: repeat;
+}
+
+.calvins-border {
+  border: 5px solid #da70dc;
+}
+
+.wrapper {
+  background-color: #fab0fa;
+  border: 5px solid #da70dc;
+
+  h1,
+  h2,
+  h3,
+  h4,
+  h5,
+  h6 {
+    color: #74007a;
+  }
+
+  th {
+    color: #74007a;
+    background-color: #fab0fa;
+  }
+
+  tr,
+  td {
+    background-color: #74007a;
+    color: #ffe9ff;
+  }
+}
+
+.bg-darkest {
+  background-color: #74007a;
+}
+
+.bg-dark {
+  background-color: #a53faa;
+}
+
+.bg {
+  background-color: #da70dc;
+}
+
+.bg-light {
+  background-color: #fab0fa;
+}
+
+.bg-lightest {
+  background-color: #ffe9ff;
+}
+
+.btn {
+  background-color: #74007a;
+  color: #ffe9ff;
+}
+
+// #74007a Darkest
+// #a53faa
+// #da70dc
+// #fab0fa
+// #ffe9ff Lightest
