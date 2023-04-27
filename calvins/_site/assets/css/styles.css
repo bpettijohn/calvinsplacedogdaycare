@@ -10,6 +10,8 @@ body { background-image: url("paw-bg.svg"); background-repeat: repeat; }
 
 .wrapper tr, .wrapper td { background-color: #74007a; color: #ffe9ff; }
 
+.wrapper footer { background-color: #da70dc; color: #ffe9ff; }
+
 .bg-darkest { background-color: #74007a; }
 
 .bg-dark { background-color: #a53faa; }
